@@ -1,0 +1,5 @@
+input = Binoculars640square_new.pgm
+OUTPUT = FilippoZalloccoMPISpatialoutput.pgm
+MPI ON
+open FilippoZalloccoMPISpatial.c
+run
